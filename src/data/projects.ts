@@ -1,0 +1,58 @@
+export default [
+  {
+    title: "Social Distribution",
+    imgUrl: "./assets/social-distribution.png",
+    techstack: [
+      "React",
+      "Redux,",
+      "MUI",
+      "Node",
+      "Express",
+      "Postgres",
+      "Prisma",
+    ],
+    link: "https://github.com/Codyle212/Social-Distribution",
+  },
+  {
+    title: "Smart Foods",
+    imgUrl: "./assets/smart-foods.png",
+    techstack: [
+      "HTML",
+      "CSS",
+      "Next.js",
+      "Python,",
+      "FastAPI",
+      "Docker",
+      "Kubernetes",
+      "Azure",
+    ],
+    link: "https://github.com/Codyle212/smart-foods",
+  },
+  {
+    title: "Google Clone",
+    imgUrl: "./assets/google-clone.png",
+    techstack: [
+      "HTML",
+      "Tailwind CSS",
+      "Next.js",
+      "Typescript,",
+      "Google Search API",
+    ],
+    link: "https://github.com/Codyle212/google-clone",
+  },
+  {
+    title: "My Portfolio",
+    imgUrl: "./assets/my-portfolio.png",
+    techstack: [
+      "HTML",
+      "Tailwind CSS",
+      "React",
+      "Typescript,",
+      "AWS S3",
+      "AWS CloudFront",
+      "AWS ACM",
+      "AWS Route53",
+    ],
+    link: "https://github.com/Codyle212/Portfolio-Website",
+  },
+];
