@@ -53,6 +53,6 @@ export default [
       "AWS ACM",
       "AWS Route53",
     ],
-    link: "https://github.com/Codyle212/Portfolio-Website",
+    link: "https://github.com/Codyle212/my-portfolio-website",
   },
 ];
