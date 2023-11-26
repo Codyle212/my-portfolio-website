@@ -1,7 +1,7 @@
 # Hosting Steps for Portfolio-Website
 
 1. Run `npm run build` to create static files
-      ![Build Process](./images/build.png)
+     <br/><br/> ![Build Process](./images/build.png)
 2. Create S3 Bucket for Static Files, enter name and leave everything as default
       ![Bucket Creation](./images/create_bucket.png)
 3. Upload Static Files to S3 Bucket
